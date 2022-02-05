@@ -86,7 +86,7 @@ class AppData {
 }
 
 /**
- * Главный класс программы
+ * главный класс
  */
 public class CSVFile {
     final static String FILE = "file.csv";      // путь к файлу обмена
